@@ -14,7 +14,7 @@ using Excel = Microsoft.Office.Interop.Excel;
 using System.IO;
 
 
-namespace proba_proekt
+namespace Personal_Financial_Planner
 {
     public partial class UserInfo : Form
     {
