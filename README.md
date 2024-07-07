@@ -30,7 +30,7 @@
 <br>
 Една од најважните класи за оваа апликација е класата UserData. Истата ги содржи сите информации за финансиите на еден корисник (приходи, заштеди и торшоци).
 <br>
-  public class UserData
+  ```public class UserData
   {
       public List<ExpenseItem> FoodExpenses { get; set; }
       public List<ExpenseItem> ClothesExpenses { get; set; }
@@ -50,7 +50,7 @@
           UtilityExpenses = new List<ExpenseItem>();
       }
   }
-
+```
 **Функција за Додавање на Трошок:  btnAddExpense_Click**
 
 Оваа функција се повикува кога корисникот ќе кликне на копчето "Додади ставка" во апликацијата. Таа овозможува додавање на нов трошок во соодветната категорија и ажурирање на поврзаните податоци.
