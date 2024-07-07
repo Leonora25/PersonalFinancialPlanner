@@ -21,7 +21,6 @@ namespace Personal_Financial_Planner
             string filePath = GetUserFilePath(user.Username);
             string json = JsonConvert.SerializeObject(user, Newtonsoft.Json.Formatting.Indented);
 
-            // Ensure the directory exists
             Directory.CreateDirectory(Path.GetDirectoryName(filePath));
 
             File.WriteAllText(filePath, json);
