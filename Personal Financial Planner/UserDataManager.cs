@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Xml;
 using Newtonsoft.Json;
 
-namespace proba_proekt
+namespace Personal_Financial_Planner
 {
     public class UserDataManager
     {

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Forms.DataVisualization.Charting;
 
-namespace proba_proekt
+namespace Personal_Financial_Planner
 {
     public partial class ChartForm : Form
     {

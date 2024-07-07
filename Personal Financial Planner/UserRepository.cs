@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace proba_proekt
+namespace Personal_Financial_Planner
 {
     public class UserRepository
     {

@@ -1,4 +1,4 @@
-﻿namespace proba_proekt
+﻿namespace Personal_Financial_Planner
 {
     partial class UserInfo
     {

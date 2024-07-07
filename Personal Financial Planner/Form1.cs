@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Windows.Forms;
 
-namespace proba_proekt
+namespace Personal_Financial_Planner
 {
     public partial class LoginForm : Form
     {

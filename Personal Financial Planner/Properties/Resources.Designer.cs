@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace proba_proekt.Properties
+namespace Personal_Financial_Planner.Properties
 {
 
 
