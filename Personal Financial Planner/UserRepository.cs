@@ -20,6 +20,13 @@ namespace Personal_Financial_Planner
         private List<User> LoadAllUsers()
         {
             var usersDirectory = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "users");
+
+            
+            if (!Directory.Exists(usersDirectory))
+            {
+                Directory.CreateDirectory(usersDirectory);
+            }
+
             var userFiles = Directory.GetFiles(usersDirectory, "*.json");
 
             var users = new List<User>();
