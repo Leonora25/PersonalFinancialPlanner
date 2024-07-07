@@ -15,7 +15,6 @@ namespace Personal_Financial_Planner
         public decimal MonthlyIncome { get; set; }
         public decimal AdditionalIncome { get; set; }
         public decimal MonthlySavings { get; set; }
-        public decimal TotalSavings { get; set; }
         public decimal SpendableAmount { get; set; }
         public decimal TransportCost { get; set; }
 
