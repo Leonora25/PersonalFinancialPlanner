@@ -69,7 +69,7 @@
 
 ### Упатство за користење:
 
-![Login Screen](PersonalFinancialPlanner/screenshots/Најава.png)
+![Login Screen](Personal Financial Planner/screenshots/Најава.png)
 
 
 •	При стартување на апликацијата најпрво се појавува формата за најава на корисникот
@@ -80,7 +80,7 @@ o	Потребно е корисникот да притисне на копче
 •	Доколку корисникот е веќе регистриран:
 o	Корисникот ги внесува своите податоци и кликнува на копчето „Логирај се”.
 
-![Main_Form](PersonalFinancialPlanner/screenshots/Главна%20форма.png)
+![Main_Form](Personal Financial Planner/screenshots/Главна форма.png)
 
 
 •	По најавата се отвора главната формакоја ги содржи податоците за корисникот.
@@ -100,11 +100,11 @@ o	Поле за Вкупно потрошени средства (вклучув
 o	При притискање на копчето „Зачувај” се зачувуваат податоците за корисникот
 o	При притискање на копчето „Одјави се” корисникот потврдува дали сака да се одјави од апликацијата по што формата со податоци се исклучува и се враќа на формата за најава
 
-![Graph](PersonalFinancialPlanner/Personal%20Financial%20Planner/screenshots/Графикон.png)
+![Graph](Personal Financial Planner/screenshots/Графикон.png)
 
 •	При притискање на копчето „Прикажи графикон” се појавува нова форма со графикон кој ги содржи податоците за трошоци од секоја категорија
 
-![Excel](PersonalFinancialPlanner/Personal%20Financial%20Planner/screenshots/Excel.png)
+![Excel](Personal Financial Planner/screenshots/Excel.png)
 
 
 •	Исто така во формата е достапна опцијата „Save as”  Excel со што податоците од главната форма се зачувуваат како Excel документ 
