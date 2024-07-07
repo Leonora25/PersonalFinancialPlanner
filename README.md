@@ -30,7 +30,8 @@
 <br>
 Една од најважните класи за оваа апликација е класата UserData. Истата ги содржи сите информации за финансиите на еден корисник (приходи, заштеди и торшоци).
 <br>
-  ```public class UserData
+```
+  public class UserData
   {
       public List<ExpenseItem> FoodExpenses { get; set; }
       public List<ExpenseItem> ClothesExpenses { get; set; }
